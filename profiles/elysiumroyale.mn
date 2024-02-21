@@ -1,0 +1,7 @@
+COIN_NAME="elysiumroyale"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="elysium_royaled"
+COIN_CLI="elysium_royale-cli"
+COIN_FOLDER="/root/.elysiumroyale"
+COIN_CONFIG="elysiumroyale.conf"
+COIN_SERVICE="elysiumroyale.service"
